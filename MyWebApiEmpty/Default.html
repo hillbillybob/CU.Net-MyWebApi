@@ -18,6 +18,11 @@
         <input type="button" value="search" onclick="find();" />
         <p id="widget" />
     </div>
+    <div>
+        <h2>Post your new Name suggestion</h2>
+        <input type="text" id="widgName" size="5" />
+        <input type="button" value="Submit" onclick="sendit();" />
+    </div>
 
     <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
     <script>
@@ -33,11 +38,11 @@
         });
 
         function formatItem(item){
-            return item.Name + ': $' + item.Price + ' Discount: ' + item.IsDiscounted;
+            return 'Name: ' + item.Name + ', $' + item.Price + ', Discount: ' + item.IsDiscounted;
         }
 
         function find(){
-            var id = $('#widgID').val();
+            var id = $('#widgId').val();
             $.getJSON(uri + '/' + id)
                 .done(function (data){
                     $('#widget').text(formatItem(data));
@@ -45,6 +50,11 @@
                 .fail(function(jqXHR, textStatus,err){
                     $('#widget').text('Error ' + err);
                 });
+        }
+
+        function sendit() {
+            var txtvalue = $('#widgName').val();
+            $.post(uri, { '': txtvalue });
         }
     </script>
 </body>

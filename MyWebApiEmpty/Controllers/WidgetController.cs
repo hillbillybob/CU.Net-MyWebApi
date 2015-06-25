@@ -30,8 +30,12 @@ namespace MyWebApiEmpty.Controllers
         }
 
         [HttpPost]
-        public void Post() { }
+        public string Post([FromBody] string Name) 
+        {
+            return Name;
+        }
 
+        /*
         [HttpGet]
         public HttpResponseMessage CustomHeader()
         {
@@ -43,6 +47,6 @@ namespace MyWebApiEmpty.Controllers
             responseMessage.Headers.Add("Custom", "BobsYourUncle");
             //Return the custom response
             return responseMessage;
-        }
+        }*/
     }
 }

@@ -75,6 +75,7 @@
     <Content Include="Default.html" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
+    <Content Include="WidgetClanks.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />

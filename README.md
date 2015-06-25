@@ -1,5 +1,5 @@
 # CU.Net-MyWebApi
-Presentation for .NET WebApi using empty and templated projects
+Presentation Project for .NET WebApi using empty and templated projects
 
 MyWebApiData - Just a data project. Contains classes with Init methods to create entity datasets
 MyWebApiEmpty - an Example of .NET WebAPI from an empty project. Very lean, has one html page detailing JSON interface with the api

@@ -1,0 +1,16 @@
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\obj\Debug\MyWebApiEmpty.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\MyWebApiEmpty.dll.config
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\MyWebApiEmpty.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\MyWebApiEmpty.pdb
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\MyWebApi.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\System.Net.Http.Formatting.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\System.Web.Http.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\System.Web.Http.WebHost.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\MyWebApi.pdb
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\System.Net.Http.Formatting.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\System.Web.Http.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\bin\System.Web.Http.WebHost.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\obj\Debug\MyWebApiEmpty.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\MyWebApi\MyWebApiEmpty\obj\Debug\MyWebApiEmpty.pdb

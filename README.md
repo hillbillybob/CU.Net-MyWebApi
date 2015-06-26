@@ -9,6 +9,9 @@ This project does NOT cover Entity Framework, ADO, or other ORM/Data connection 
 
 Learning:
 http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api
+Book: Designing Evolvable Web API's with ASP.Net 
+      Block, Cibraro, Felix, Dierking, Miller.
+      ISBN: 978-1-449-33771-1
 
 Poster:
 http://www.asp.net/media/4071077/aspnet-web-api-poster.pdf

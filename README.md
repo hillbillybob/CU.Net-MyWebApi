@@ -8,7 +8,8 @@ MyWebApiTemplate - The default VS template with full MVC and WebAPI functionalit
 This project does NOT cover Entity Framework, ADO, or other ORM/Data connection technologies. 
 
 Learning:
-http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api
+WebSite: http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api
+
 Book: Designing Evolvable Web API's with ASP.Net 
       Block, Cibraro, Felix, Dierking, Miller.
       ISBN: 978-1-449-33771-1
